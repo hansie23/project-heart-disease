@@ -4,24 +4,24 @@ Classification problem
 ## Predicting heart disease using machine learning
 ### Approach:
 
-- Problem definition:
+- Problem definition:<br>
         - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
     
-- Data:
+- Data:<br>
         - The original data came from the Cleaveland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+disease <br>
     There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf/heart-disease-uci
     
-- Evaluation:
+- Evaluation:<br>
         - If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project.
     
-- Features:
+- Features:<br>
         - Different information about each of the features in the data can be found here.
 
     1. age: age in years
     2. sex: sex (1 = male; 0 = female)
     3. cp: chest pain type
 
-        Value 1: typical angina
+        Value 1: typical angina __
         Value 2: atypical angina
         Value 3: non-anginal pain
         Value 4: asymptomatic
