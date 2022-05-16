@@ -21,7 +21,7 @@ Classification problem
     2. sex: sex (1 = male; 0 = female)
     3. cp: chest pain type
 
-        Value 1: typical angina __
+        Value 1: typical angina   
         Value 2: atypical angina
         Value 3: non-anginal pain
         Value 4: asymptomatic
