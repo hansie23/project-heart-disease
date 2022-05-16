@@ -41,7 +41,7 @@ Classification problem
         Value 3: downsloping
     12. ca: number of major vessels (0-3) colored by flourosopy
     13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
-    14. target: diagnosis of heart disease (angiographic disease status)(the predicted attribute)
+    14. target: diagnosis of heart disease (angiographic disease status)(the predicted attribute)  
         Value 0: < 50% diameter narrowing (no)  
         Value 1: > 50% diameter narrowing (yes)
         (in any major vessel: attributes 59 through 68 are vessels)
